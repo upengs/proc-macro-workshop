@@ -16,3 +16,4 @@ derive_builder = { path = "builder" }
 derive_debug = { path = "debug" }
 seq = { path = "seq" }
 sorted = { path = "sorted" }
+proc_macro_define_crate = { path = "proc_macro_define_crate" }
